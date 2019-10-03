@@ -45,10 +45,10 @@ header .avatar img {
   right: 0;
 }
 
-header .avatarMask {
+/* header .avatarMask {
   clip-path: circle(48px at center);
   -webkit-clip-path: circle(48px at center);
-}
+} */
 
 /* Footer */
 footer {
